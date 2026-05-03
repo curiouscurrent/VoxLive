@@ -1,2 +1,2 @@
 # VoxLive
-Live Performances of Artists in one place.
+Live Performances and Concerts of Artists in one place.
